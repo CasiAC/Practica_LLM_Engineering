@@ -4,3 +4,5 @@ Subo los Colab de los dos modelos que he probado para hacer un chatbot de Salud 
 Pruebo con el modelo BETO y el dataset MLQA, Salud Evolutiva BETO, no me sirve.
 Pruebo con el Modelo Mistral y el dataset MLQA, Tribu Salud, tengo buenos resultados.
 Modifico Tribu Salud para mejorarlo.
+Te paso el enlace para ver los modelos subidos a Huggeng Face.
+https://huggingface.co/CasiAC
